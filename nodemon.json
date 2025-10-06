@@ -1,0 +1,12 @@
+{
+  "watch": ["server.js"],
+  "ext": "js,json",
+  "ignore": [
+    "src/*",
+    "node_modules/*",
+    "package.json",
+    "pnpm-lock.yaml",
+    ".env",
+    ".env.local"
+  ]
+}

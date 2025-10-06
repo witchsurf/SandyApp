@@ -1,0 +1,2 @@
+-- Placeholder migration matching remote version 20251024.
+-- Actual fixes moved to 202510251200_menu_cleanup.sql.

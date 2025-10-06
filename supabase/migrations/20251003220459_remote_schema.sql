@@ -1,0 +1,2 @@
+-- Placeholder migration matching remote history.
+-- This file exists so Supabase CLI recognises the already-applied remote migration version.

@@ -1,0 +1,7 @@
+{
+  "headers": {
+    "/**": {
+      "Content-Security-Policy": "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; connect-src: 'self' https://hgrjuxosdjjkbaxjuckj.supabase.co https://*.supabase.co https://*.supabase.in http://localhost:8787 ws:; img-src 'self' data:;"
+    }
+  }
+}
