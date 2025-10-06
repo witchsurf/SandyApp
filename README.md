@@ -1,5 +1,7 @@
 # SandyApp
 
+[![CI](https://github.com/witchsurf/SandyApp/actions/workflows/ci.yml/badge.svg)](https://github.com/witchsurf/SandyApp/actions/workflows/ci.yml)
+
 Assistant IA de planification de menus et de gestion d'inventaire, construit avec React + Vite côté front et un serveur Express connecté à Supabase.
 
 ## Prérequis
